@@ -1,1 +1,1 @@
-## Training Repository
+Hello, Hexlet! How are you?
